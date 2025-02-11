@@ -33,21 +33,34 @@ Here are the technologies I work with:
 
 ---
 
-📂 Projects
-🔎 Data Analyst Projects
-📌 Project 1 – ETL pipeline for cleaning and analyzing business sales data.
-📌 Project 2 – Power BI dashboard for real-time financial analysis.
-📌 Project 3 – Kaggle competition: Machine learning for customer segmentation.
+## 📂 Data Analytics Projects  
 
-⚡ Data Engineer Projects
-📌 Project 1 – Building a Data Lake for healthcare analytics (volunteer work).
-📌 Project 2 – Cloud data pipeline using AWS, PostgreSQL, and Airflow.
-📌 Project 3 – Real-time streaming pipeline using Apache Kafka and Spark.
+📌 **[Airbnb Listings Analysis: Rio de Janeiro (2022–2024)](https://github.com/jivagomenezes/airbnb-rio-analysis/tree/main)**  
+- 🔹 Analyzed Airbnb listings in **Rio de Janeiro, Brazil**, using data from **September 25, 2024**.  
+- 🔹 Provided **actionable insights** on **accommodation prices, reservation patterns, and neighborhood trends**.  
+- 🔹 Utilized **Tableau** for **data visualization** and handled **data quality challenges**.  
 
-(Click on the links to check out my projects! More coming soon! 🚀)
+---
+
+## ⚡ Data Engineering Projects  
+
+📌 **[SmartText AI: Semantic Retrieval and Augmented Generation](https://github.com/jivagomenezes/project-rag/tree/main)**  
+- 🔹 Developed a **Retrieval-Augmented Generation (RAG) system** with **semantic search** and **vector memory**.  
+- 🔹 Utilized **LangChain, VectorDB, and Embeddings** for **efficient text processing, metadata tagging, and context-aware query responses**.  
+- 🔹 Extracted insights from **structured and unstructured data**.  
+
+📌 **[Real-Time Stock Market Data Integration with Kafka and AWS](https://github.com/jivagomenezes/kafka-aws-stock-pipeline)**  
+- 🔹 Built a **real-time data pipeline** using **Kafka** to ingest **stock market data**.  
+- 🔹 Stored data in **AWS S3** with **secure IAM access** and **queried insights via AWS Athena**.  
+- 🔹 Integrated **streaming and cloud analytics** for real-time financial data analysis.  
+
+---
+
+#### 🔥 **More projects coming soon! Stay tuned!** 🚀  
 
 
-📫 Let's Connect
+
+ ### 📫 Let's Connect
 
 
 
