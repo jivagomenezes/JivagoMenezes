@@ -13,23 +13,24 @@
 ---
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack  
 Here are the technologies I work with:
 
 <div align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/id9sYMA_Im/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Tableau" alt="Tableau" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idjSeCeMle/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="AWS" alt="AWS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Databricks" alt="Databricks" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="50" height="50"/>
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.brandfetch.io/id9sYMA_Im/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Tableau" alt="Tableau" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.brandfetch.io/idjSeCeMle/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="AWS" alt="AWS" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.brandfetch.io/idSUrLOWbH/idEHbzBDZC.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Databricks" alt="Databricks" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/></span>&nbsp;&nbsp;&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="50" height="50"/></span>
 </div>
+
 
 ---
 
