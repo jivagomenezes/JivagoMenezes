@@ -36,27 +36,41 @@ Here are the technologies I work with:
 ## 📂 Data Analytics Projects  
 
 📌 **[Airbnb Listings Analysis: Rio de Janeiro (2022–2024)](https://github.com/jivagomenezes/airbnb-rio-analysis/tree/main)**  
-- 🔹 Analyzed Airbnb listings in **Rio de Janeiro, Brazil**, using data from **September 25, 2024**.  
-- 🔹 Provided **actionable insights** on **accommodation prices, reservation patterns, and neighborhood trends**.  
-- 🔹 Utilized **Tableau** for **data visualization** and handled **data quality challenges**.  
+- Analyzed Airbnb listings in **Rio de Janeiro, Brazil**, using data from **September 25, 2024**.  
+- Provided **actionable insights** on **accommodation prices, reservation patterns, and neighborhood trends**.  
+- Utilized **Tableau** for **data visualization** and handled **data quality challenges**.  
+
+📌 **[Real Estate Market & Inflation Analysis in Europe (2010–2024)](https://github.com/jivagomenezes/real-state-analysis/tree/main?tab=readme-ov-file#project-overview)**
+
+- Explored housing prices, inflation trends, and affordability across European countries from 2010 to 2024.
+- Delivered actionable insights on price evolution, inflation impacts, and regional affordability differences.
+- Developed interactive dashboards using Power BI, tackling data seasonality and cross-temporal analysis challenges.
 
 ---
 
 ## ⚡ Data Engineering Projects  
 
+📌 **[Data Engineering Zoomcamp (2025 Cohort)](https://github.com/jivagomenezes/DE-Zoomcamp)**
+
+- Completed a 9-week intensive bootcamp covering data engineering fundamentals with hands-on projects.
+- Built an end-to-end data pipeline using industry-standard tools like Docker, Terraform, BigQuery, dbt, Spark, and Kafka.
+- Gained practical experience with data ingestion, warehousing, orchestration, batch and streaming processing.
+- Developed a final project applying all concepts in a real-world data pipeline scenario with peer-reviewed feedback.
+
 📌 **[SmartText AI: Semantic Retrieval and Augmented Generation](https://github.com/jivagomenezes/project-rag/tree/main)**  
-- 🔹 Developed a **Retrieval-Augmented Generation (RAG) system** with **semantic search** and **vector memory**.  
-- 🔹 Utilized **LangChain, VectorDB, and Embeddings** for **efficient text processing, metadata tagging, and context-aware query responses**.  
-- 🔹 Extracted insights from **structured and unstructured data**.  
+- Developed a **Retrieval-Augmented Generation (RAG) system** with **semantic search** and **vector memory**.  
+- Utilized **LangChain, VectorDB, and Embeddings** for **efficient text processing, metadata tagging, and context-aware query responses**.  
+- Extracted insights from **structured and unstructured data**.  
 
 📌 **[Real-Time Stock Market Data Integration with Kafka and AWS](https://github.com/jivagomenezes/kafka-aws-stock-pipeline)**  
-- 🔹 Built a **real-time data pipeline** using **Kafka** to ingest **stock market data**.  
-- 🔹 Stored data in **AWS S3** with **secure IAM access** and **queried insights via AWS Athena**.  
-- 🔹 Integrated **streaming and cloud analytics** for real-time financial data analysis.  
+- Built a **real-time data pipeline** using **Kafka** to ingest **stock market data**.  
+- Stored data in **AWS S3** with **secure IAM access** and **queried insights via AWS Athena**.  
+- Integrated **streaming and cloud analytics** for real-time financial data analysis.  
 
 ---
 
-#### 🔥 **More projects coming soon! Stay tuned!** 🚀  
+
+#### **More projects coming soon! Stay tuned!** 🚀  
 
 
 
@@ -65,7 +79,6 @@ Here are the technologies I work with:
 
 
 [<img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="120">](https://www.linkedin.com/in/jivagomenezes/)
-
 
 
 
