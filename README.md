@@ -1,4 +1,4 @@
-🚀 About Me
+About Me
 
 👋 Hi, I'm **Jivago Menezes**, a **Data Analyst** passionate about using data to create insights that drive impactful decisions. I love uncovering patterns, solving complex problems, and transforming raw data into meaningful stories.
 
@@ -34,7 +34,7 @@ Here are the technologies I work with:
 
 ---
 
-## 📂 Data Analytics Projects  
+## Data Analytics Projects  
 
 📌 **[Airbnb Listings Analysis: Rio de Janeiro (2022–2024)](https://github.com/jivagomenezes/airbnb-rio-analysis/tree/main)**  
 - Analyzed Airbnb listings in **Rio de Janeiro, Brazil**, using data from **September 25, 2024**.  
@@ -49,7 +49,7 @@ Here are the technologies I work with:
 
 ---
 
-## ⚡ Data Engineering Projects  
+## Data Engineering Projects  
 
 📌 **[Data Engineering Zoomcamp (2025 Cohort)](https://github.com/jivagomenezes/DE-Zoomcamp)**
 
@@ -71,7 +71,7 @@ Here are the technologies I work with:
 ---
 
 
-#### **More projects coming soon! Stay tuned!** 🚀  
+#### **More projects coming soon! Stay tuned!**  
 
 
 
@@ -84,5 +84,5 @@ Here are the technologies I work with:
 
 
 🔜 What's Next?
-I'm currently working on advanced data engineering concepts, cloud computing, and workflow orchestration. Stay tuned for exciting projects! 🚀
+I'm currently working on advanced data engineering concepts, cloud computing, and workflow orchestration. Stay tuned for exciting projects!
 
