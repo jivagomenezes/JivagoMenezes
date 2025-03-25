@@ -42,17 +42,21 @@ Here are the technologies I work with:
 - Utilized **Tableau** for **data visualization** and handled **data quality challenges**.  
 
 📌 **[Real Estate Market & Inflation Analysis in Europe (2010–2024)](https://github.com/jivagomenezes/real-state-analysis/tree/main?tab=readme-ov-file#project-overview)**
-
 - Explored housing prices, inflation trends, and affordability across European countries from 2010 to 2024.
 - Delivered actionable insights on price evolution, inflation impacts, and regional affordability differences.
 - Developed interactive dashboards using Power BI, tackling data seasonality and cross-temporal analysis challenges.
+
+📌 **[Console Naming Strategy Market Impact Analysis](https://github.com/jivagomenezes/05-XboxAnalysis)**
+- Investigated the impact of Microsoft's Xbox Series S/X naming strategy on market performance.
+- Analyzed sales data, consumer perception, search trends, and social media sentiment.
+- Compared marketing approaches of Xbox Series S/X and PlayStation 5.
+- Utilized advanced data analysis techniques to uncover insights into console market dynamics.
 
 ---
 
 ## Data Engineering Projects  
 
 📌 **[Data Engineering Zoomcamp (2025 Cohort)](https://github.com/jivagomenezes/DE-Zoomcamp)**
-
 - Completed a 9-week intensive bootcamp covering data engineering fundamentals with hands-on projects.
 - Built an end-to-end data pipeline using industry-standard tools like Docker, Terraform, BigQuery, dbt, Spark, and Kafka.
 - Gained practical experience with data ingestion, warehousing, orchestration, batch and streaming processing.
@@ -85,4 +89,3 @@ Here are the technologies I work with:
 
 🔜 What's Next?
 I'm currently working on advanced data engineering concepts, cloud computing, and workflow orchestration. Stay tuned for exciting projects!
-
