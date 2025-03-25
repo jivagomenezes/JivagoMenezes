@@ -4,16 +4,16 @@ About Me
 
 ---
 
-📊 Experienced in **Python, SQL, and Tableau** for data analysis, visualization, and reporting.  
-🔥 Enthusiastic about **ETL pipelines, cloud computing, and big data infrastructure** to support analytics at scale.  
-📍 Based in **Lisbon, Portugal**.  
-🎯 My goal: **Master the entire data stack**—from analysis to pipelines and infrastructure—to build scalable, efficient data solutions.  
-💡 Always open to **collaborations** and **opportunities** in data analytics, with a strong drive to expand into data engineering.
+- Experienced in **Python, SQL, and Tableau** for data analysis, visualization, and reporting.  
+- Enthusiastic about **ETL pipelines, cloud computing, and big data infrastructure** to support analytics at scale.  
+- Based in **Lisbon, Portugal**.  
+- My goal: **Master the entire data stack**—from analysis to pipelines and infrastructure—to build scalable, efficient data solutions.  
+- Always open to **collaborations** and **opportunities** in data analytics, with a strong drive to expand into data engineering.
 
 ---
 
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 Here are the technologies I work with:
 
 <div align="center"> 
@@ -59,7 +59,7 @@ Here are the technologies I work with:
 📌 **[Data Engineering Zoomcamp (2025 Cohort)](https://github.com/jivagomenezes/DE-Zoomcamp)**
 - Completed a 9-week intensive bootcamp covering data engineering fundamentals with hands-on projects.
 - Built an end-to-end data pipeline using industry-standard tools like Docker, Terraform, BigQuery, dbt, Spark, and Kafka.
-- Gained practical experience with data ingestion, warehousing, orchestration, batch and streaming processing.
+- Gained practical experience with data ingestion, warehousing, orchestration, batch, and streaming processing.
 - Developed a final project applying all concepts in a real-world data pipeline scenario with peer-reviewed feedback.
 
 📌 **[SmartText AI: Semantic Retrieval and Augmented Generation](https://github.com/jivagomenezes/project-rag/tree/main)**  
@@ -75,7 +75,7 @@ Here are the technologies I work with:
 ---
 
 
-#### **More projects coming soon! Stay tuned!**  
+#### **More projects are always on the way!**  
 
 
 
@@ -86,6 +86,3 @@ Here are the technologies I work with:
 [<img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="120">](https://www.linkedin.com/in/jivagomenezes/)
 
 
-
-🔜 What's Next?
-I'm currently working on advanced data engineering concepts, cloud computing, and workflow orchestration. Stay tuned for exciting projects!
