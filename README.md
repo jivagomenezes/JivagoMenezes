@@ -36,6 +36,12 @@ Here are the technologies I work with:
 
 ## Data Analytics Projects  
 
+📌 **[DentalSoft Trial Conversion Analysis](https://github.com/jivagomenezes/DentalSoft-Trial-Conversion-Analysis)**
+- Developed a comprehensive data pipeline to analyze trial-to-paid conversion patterns for dental practice software
+- Identified key factors influencing conversion rates, achieving 18.35% conversion for independent clinics.
+- Created an analytical model integrating clinic profiles, activity patterns, and subscription data.
+- Utilized Python, Pandas, and data visualization libraries to deliver actionable optimization opportunities.
+
 📌 **[Airbnb Listings Analysis: Rio de Janeiro (2022–2024)](https://github.com/jivagomenezes/airbnb-rio-analysis/tree/main)**  
 - Analyzed Airbnb listings in **Rio de Janeiro, Brazil**, using data from **September 25, 2024**.  
 - Provided **actionable insights** on **accommodation prices, reservation patterns, and neighborhood trends**.  
