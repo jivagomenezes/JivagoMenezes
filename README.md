@@ -1,6 +1,6 @@
 About Me
 
-👋 Hi, I'm **Jivago Menezes**, a **Data Analyst** passionate about using data to create insights that drive impactful decisions. I love uncovering patterns, solving complex problems, and transforming raw data into meaningful stories.
+👋 Hi, I'm **Jivago Menezes**, a **Data Engineer** passionate about using data to create insights that drive impactful decisions. I love uncovering patterns, solving complex problems, and transforming raw data into meaningful stories.
 
 ---
 
